@@ -1,0 +1,14 @@
+C:\Users\vitor\Music\C#\Básico C#\bin\Debug\net8.0\Básico C#.exe
+C:\Users\vitor\Music\C#\Básico C#\bin\Debug\net8.0\Básico C#.deps.json
+C:\Users\vitor\Music\C#\Básico C#\bin\Debug\net8.0\Básico C#.runtimeconfig.json
+C:\Users\vitor\Music\C#\Básico C#\bin\Debug\net8.0\Básico C#.dll
+C:\Users\vitor\Music\C#\Básico C#\bin\Debug\net8.0\Básico C#.pdb
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.AssemblyInfoInputs.cache
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.AssemblyInfo.cs
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.dll
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\refint\Básico C#.dll
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.pdb
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\Básico C#.genruntimeconfig.cache
+C:\Users\vitor\Music\C#\Básico C#\obj\Debug\net8.0\ref\Básico C#.dll
